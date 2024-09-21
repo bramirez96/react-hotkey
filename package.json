@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "@brr-dev/react-hotkey",
   "description": "A lightweight wrapper around the Vanilla JS HotKey library that adds in hook-based handling with React.",
   "author": "Brandon Ramirez <brandon@brr.dev>",
@@ -12,7 +12,8 @@
   ],
   "scripts": {
     "build": "tsup",
-    "text": "jest"
+    "text": "jest",
+    "prepare": "pnpm build"
   },
   "keywords": [
     "template",
