@@ -1,3 +1,3 @@
-# @brr-dev/typescript-package-template
+# @brr-dev/react-hotkey
 
-A template repo for bundling TypeScript packages.
+A lightweight wrapper around the Vanilla JS HotKey library that adds in hook-based handling with React.
